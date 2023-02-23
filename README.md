@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Gean Marques Veloso
 
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=geanmarques&show_icons=true&theme=tokyonight)](https://github.com/geanmarques/github-readme-stats)
 
 - 🔭 Cursando o Curso Fullstack do Floripa mais tec
 
